@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hilmi Chrigui</h1>
 <h3 align="center">A passionate Computer Science Student</h3>
-<img align="right" alt="Coding" width="300" src="">
 
 - 🌱 I’m currently learning **Kubernetes**
 
